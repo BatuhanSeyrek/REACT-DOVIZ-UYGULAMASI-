@@ -1,0 +1,10 @@
+.body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url(image/677754Image1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: "flex";
+}
